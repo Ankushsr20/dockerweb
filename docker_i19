@@ -1,0 +1,7 @@
+Solomon Hykes helped found a business, Docker, which sought to make containers easy to use. With the release of Docker 1.0 in June 2014, the buzz became a roar. And, over the years, it's only got louder.
+
+All the noise is happening because companies are adopting Docker at a remarkable rate. In July 2014 at OSCon, I ran into numerous businesses that had already moved their server applications from virtual machines (VM) to containers.
+
+Indeed, James Turnbull, then Docker's VP of services and support, told me at the conference that three of its largest beta bank customers were moving it into production. That's a heck of a confident move for any 1.0 technology, but it's almost unheard of in the safety-first financial world.
+
+Today, Docker, and its open-source father now named Moby, is bigger than ever. According to Docker, over 3.5 million applications have been placed in containers using Docker technology and over 37 billion containerized applications have been downloaded.
